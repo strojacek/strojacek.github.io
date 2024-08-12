@@ -17,4 +17,3 @@ Introduction
 ---
 
 This is the first in a series for using Csound as part of the arsenal of a touring guitarist/electronic music hobbyist.
-
