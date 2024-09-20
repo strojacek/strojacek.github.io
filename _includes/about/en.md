@@ -1,4 +1,6 @@
-# Hello I'm Seth. I am a Data Scientist by trade for Texas A&M University
+# Howdy!
+
+I'm Seth. I am a Data Scientist by trade for Texas A&M University
 
 I primarily consider myself a statistician who took a detour into web development, before landing on geospatial analytics.
 When not working on the occasional research paper, I am currently working on a couple of books, following the stock market, playing guitar, and learning how to make video games with Godot.
