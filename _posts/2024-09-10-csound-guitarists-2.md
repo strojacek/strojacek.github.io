@@ -17,6 +17,3 @@ Introduction
 ---
 
 This post will discuss implementing a Reverb effect for ones guitar, in Csound.
-
-
-
