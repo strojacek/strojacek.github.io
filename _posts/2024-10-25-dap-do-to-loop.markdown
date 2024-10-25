@@ -1,13 +1,16 @@
 ---
 layout:     post
-title:      "Hello 2015"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
-header-img: "img/post-bg-2015.jpg"
+title:      "Implementing do to loops in Dap"
+subtitle:   ""
+date:       2024-10-25
+author:     "strojacek"
+#header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - Meta
+    - Dap
+    - SAS
+    - statistics
+    - programming-language
 ---
 
 > “Yeah It's on. ”
