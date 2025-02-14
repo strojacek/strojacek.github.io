@@ -6,4 +6,7 @@ When not working on statistics or GIS research problems, I am usually running or
 I studied at East Texas A&M University for my Bachelors (Education) and my Masters (Computer Science).
 
 
+Some Projects I have worked on
+---
 
+- Gnu Dap: An Open Source implementation of SAS (Statistical Analysis System)
