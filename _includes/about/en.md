@@ -11,3 +11,17 @@ Some Projects that I am working on
 
 - [Porlock](https://github.com/strojacek/porlock): An all Python 3 implementation of Udanax Green.
 - [Dap2](https://github.com/strojacek/dap2): An all Python 3 implementation of Gnu Dap, an open source implementation of SAS (Statistical Analysis System).
+
+
+Purpose of this Blog
+---
+
+This blog is meant to do some data analysis on stuff I find interesting.  
+
+
+Disclaimer
+---
+
+The opinions expressed in this blog are the my own and do not reflect the views of my employer.
+
+
