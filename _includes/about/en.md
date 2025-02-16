@@ -11,6 +11,3 @@ Some Projects that I am working on
 
 - [Porlock](https://github.com/strojacek/porlock): An all Python 3 implementation of Udanax Green.
 - [Dap2](https://github.com/strojacek/dap2): An all Python 3 implementation of Gnu Dap, an open source implementation of SAS (Statistical Analysis System).
-
-- [ropencyc](https://github.com/strojacek/opencyc-c-api/ropencyc): R bindings to the OpenCyc C API, made by Flavio Protasio Ribeiro. 
-- [zzframes](https://github.com/strojacek/zzframes): An R implementation of ZigZag Data Structures, with an emphasis on the values being an R dataframe, with multi-dimensional keys.
