@@ -9,8 +9,8 @@ I studied at East Texas A&M University for my Bachelors (Education) and my Maste
 Some Projects that I am working on
 ---
 
-- [Porlock](https://github.com/strojacek/porlock): An all Python 3 implementation of Udanax Green. Based on a combination of a modified version (migrating from Tkinter to PyQt) of Pyxi (the front end UI of Udanax Green) originally made by Ka Ping Ye, and some more updates to code for the backend, originally written by John Rush.
-- [Dap2](https://github.com/strojacek/dap2): An all Python 3 implementation of Gnu Dap, an open source implementation of SAS (Statistical Analysis System).
+- [Porlock](https://github.com/strojacek/porlock): An all Python 3 implementation of Udanax Green. Based on a combination of a modified version (migrating from Tkinter to PyQt) of Pyxi (the front end UI of Udanax Green) originally made by Ka Ping Ye, and some more updates to code for the backend, originally written by Jeff Rush.
+
 - [OpenCyc C API](https://github.com/strojacek/opencyc-c-api): Currently working on R & Python bindings to the Opencyc inference engine, through the C API made by Flavio Protasio Ribeiro.
 
 Purpose of this Blog
