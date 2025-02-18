@@ -8,7 +8,11 @@ I studied at East Texas A&M University for my Bachelors (Education) and my Maste
 Some Projects that I am working on
 ---
 
-- [Porlock](https://github.com/strojacek/porlock): An all Python 3 implementation of Udanax Green. Based on a combination of a modified version (migrating from Tkinter to PyQt) of Pyxi (the front end UI of Udanax Green) originally made by Ka Ping Ye, and some more updates to code for the backend, originally written by Jeff Rush.
+- [Porlock](https://github.com/strojacek/porlock): An all Python 3 implementation of Udanax Green.
+Porlock uses a combination of the following code:
+  - Pyxi (The Python Xanadu Interface), made by Ka Ping Ye, for Udanax Green. My changes are to migrate this UI to PyQt, from Tkinter.
+  - [Pyxu/Minxu](https://web.archive.org/web/20070731043855/http://www.sunless-sea.net/wiki/Downloads): Originally made by Jeff Rush, is a Python implementation of the Enfilade/Tumbler data structure used by Udanax Green.
+  - [Enfilades-1984](https://github.com/jdougan/Enfilades-1984): Another implementation of the Enfilade data structure, by John Dougan.
 
 Purpose of this Blog
 ---
