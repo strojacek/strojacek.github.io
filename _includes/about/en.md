@@ -16,7 +16,7 @@ Some Projects that I am working on
 Some Projects that I have stopped working on (and why)
 ---
 
-- Gnu Dap: Gnu Dap is an open source implementation of SAS (Statistical Analysis System). It was good for learning how compilers work, but it would have been a massive project, and I wasn't willing to make that commitment, with R being free and easily available.
+- [Gnu Dap](https://www.gnu.org/software/dap/): Gnu Dap is an open source implementation of SAS (Statistical Analysis System). It was good for learning how compilers work, but it would have been a massive project, and I wasn't willing to make that commitment, with R being free and easily available.
 
 
 Purpose of this Blog
