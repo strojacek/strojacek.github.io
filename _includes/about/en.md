@@ -5,11 +5,6 @@ When not working on statistics or GIS research problems, I am usually running, c
 
 I studied at East Texas A&M University for my Bachelors (Education) and my Masters (Computer Science).
 
-Purpose of this Blog
----
-
-This blog is meant to do some data analysis on stuff I find interesting, as well as go over my learning various things.
-
 Disclaimer
 ---
 
